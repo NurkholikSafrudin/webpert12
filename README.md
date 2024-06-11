@@ -1,6 +1,6 @@
-﻿|Nama |Tatia Deswita Anggraeni|
+﻿|Nama |Nurkholik Safrudin|
 | :- | :- |
-|Nim |312210|
+|Nim |312210507|
 |Kelas |TI.22.A.5|
 |Tugas |lab11web|
 
